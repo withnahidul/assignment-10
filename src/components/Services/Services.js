@@ -3,21 +3,21 @@ import { Link } from "react-router-dom";
 const services = [
   {
     title: "Service-1",
-    price: 540,
+    price: 1500,
     image: "https://withnahidul.github.io/service-icon/service-icon-1.png",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque doloremque reiciendis architecto tempore commodi perspiciatis itaque eveniet, vero fugiat autem?",
   },
   {
     title: "Service-2",
-    price: 780,
+    price: 2000,
     image: "https://withnahidul.github.io/service-icon/service-icon-2.png",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque doloremque reiciendis architecto tempore commodi perspiciatis itaque eveniet, vero fugiat autem?",
   },
   {
     title: "Service-3",
-    price: 830,
+    price: 3000,
     image: "https://withnahidul.github.io/service-icon/service-icon-4.png",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque doloremque reiciendis architecto tempore commodi perspiciatis itaque eveniet, vero fugiat autem?",
