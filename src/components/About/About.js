@@ -12,7 +12,7 @@ const About = () => {
         information contained herein is true and correct to the best of my
         knowledge and belief.Daily i worked hard to full fill my goal.i'm going
         to finished programming hero course.Its a nice course for me to learn
-        web development. Every early morning I practice code with frsh mind.Pray
+        web development.I also build my nwtwork daily on line and offline. Every early morning I practice code with frsh mind.Pray
         for me may Allah will bless me.
       </p>
     </div>
