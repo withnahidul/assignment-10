@@ -8,13 +8,20 @@ const Blogs = () => {
           1.Difference between authorization and authentication?
         </h2>
         <p>
-          Authentication: -Checks the persons identity to grant access to the
-          system. -Its verifying user's Credentials(user name and password). -It
-          is performed at very first step. Ex: online banking login.
-          Authorization: -Checks Persons privileges or permission to access the
-          resources. -Its Validating user Permission(user can access after
-          permission). -It is useally performed after authentication.
-          Ex:College/multiuser data base.
+          <h4>Authentication:</h4>
+          <li>Checks the persons identity to grant access to the system.</li>
+          <li>Its verifying user's Credentials(user name and password).</li>
+          <li>It is performed at very first step.</li>
+          <li>Ex: online banking login.</li>
+          <h4>Authorization:</h4>
+          <li>
+            Checks Persons privileges or permission to access the resources.
+          </li>
+          <li>
+            Its Validating user Permission(user can access after permission).
+          </li>
+          <li>It is useally performed after authentication.</li>
+          <li>Ex:College/multiuser data base.</li>
         </p>
       </div>
       <div>
@@ -27,16 +34,16 @@ const Blogs = () => {
           the backend development and focus on apps frontend development. There
           are main 3 services I like:
           <li>
-            i)Apps development: firebase ML/Firebase Auth/Cloud storage/Realtime
+            Apps development: firebase ML/Firebase Auth/Cloud storage/Realtime
             Database.
           </li>
           <li>
-            ii)Quality Improvement: Firebase crashlytics/Performance Monitoring
+            Quality Improvement: Firebase crashlytics/Performance Monitoring
             Tools/Firebase test lab
           </li>
           <li>
-            iii) Instrument for Business group : Firebase in-app
-            messaging/Firebase A/B Testing{" "}
+            Instrument for Business group : Firebase in-app messaging/Firebase
+            A/B Testing
           </li>
           <h2>There are to many authentication types we can use:</h2>
           <li>-Thought cards</li>

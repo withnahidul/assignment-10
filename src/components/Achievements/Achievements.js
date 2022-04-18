@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 const achievements = [
   {
     image: "https://withnahidul.github.io/service-icon/offer-4.jpg",
-    
   },
   {
     image: "https://withnahidul.github.io/service-icon/offer-2.jpg",
@@ -15,7 +14,7 @@ const achievements = [
 const Achievements = () => {
   return (
     <div className="md:container my-10 md:mx-auto">
-      <h2 className="text-5xl text-center font-bold">Discount's</h2>
+      <h2 className="text-5xl text-center font-bold">Demo Photography</h2>
       <div className="grid md:grid-cols-3 grid-cols-1 gap-4 my-8">
         {achievements.map((achievement) => (
           <div className="grid px-4 mt-6">
