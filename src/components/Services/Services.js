@@ -5,22 +5,22 @@ const services = [
     title: "Service-1",
     price: 1500,
     image: "https://withnahidul.github.io/service-icon/service-icon-1.png",
-    description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque doloremque reiciendis architecto tempore commodi perspiciatis itaque eveniet, vero fugiat autem?",
+    description: `you will typically receive approximately 50 to 60 images an hour. If you are adding a second photographer, that will increases the covarage and the total number of images an hour.The oveall number of images very and may be affected by the 
+      events of the day.`,
   },
   {
     title: "Service-2",
     price: 2000,
     image: "https://withnahidul.github.io/service-icon/service-icon-2.png",
-    description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque doloremque reiciendis architecto tempore commodi perspiciatis itaque eveniet, vero fugiat autem?",
+    description: `you will typically receive approximately 90 to 100 images an hour. If you are adding a second photographer, that will increases the covarage and the total number of images an hour.The oveall number of images very and may be affected by the 
+      events of the day.`,
   },
   {
     title: "Service-3",
     price: 3000,
     image: "https://withnahidul.github.io/service-icon/service-icon-4.png",
-    description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque doloremque reiciendis architecto tempore commodi perspiciatis itaque eveniet, vero fugiat autem?",
+    description: `you will typically receive approximately 150 to 260 images an hour. If you are adding a second photographer, that will increases the covarage and the total number of images an hour.The oveall number of images very and may be affected by the 
+      events of the day.`,
   },
 ];
 
