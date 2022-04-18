@@ -2,7 +2,7 @@
 
 ## Live site Link:
 
-In the project directory, you can run:
+# https://nis-wedding-photographer.netlify.app/
 
 ## Project Description:
 
