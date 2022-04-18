@@ -14,4 +14,5 @@ In the project directory, you can run:
 -Its a responsive for mobile and desktop.
 -There is a blog section user can read daily blogs.
 -There is a contract section user can contract with us for book our shedule.
-- -In future we add to many fancy thing in this site.
+
+- In future we add to many fancy thing in this site.
